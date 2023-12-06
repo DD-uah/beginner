@@ -1,0 +1,2 @@
+# beginner
+My second repository
